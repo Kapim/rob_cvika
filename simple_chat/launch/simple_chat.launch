@@ -1,0 +1,3 @@
+<launch>
+  <node name="chat" pkg="simple_chat" type="simple_chat_node" output="screen" />
+</launch>

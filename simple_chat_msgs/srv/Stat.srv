@@ -1,0 +1,8 @@
+int8 stat_type
+int8 USERS_COUNT=0
+int8 TOTAL_MSGS=1
+int8 USERS_LOGINS=2
+int8 MOST_CHATTY=3
+---
+int32 result
+string[] logins
